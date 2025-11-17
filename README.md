@@ -85,35 +85,31 @@ Passionate **Cyber Security Researcher** specializing in **penetration testing**
 ## 📊 GitHub Statistics
 
 <!-- GitHub Profile Stats & Activity -->
-
 <div align="center">
 
   <!-- Profile Overview Cards -->
   <h2>🌟 GitHub Stats & Top Languages</h2>
-  <br/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MhdAsfan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MhdAsfan GitHub Stats" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhdAsfan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <br/>
 
   <!-- Skills Badges Row -->
-  <div style="margin: 20px 0;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  </div>
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <br/>
 
   <hr style="width:60%; margin: 30px auto; border-top: 1.5px solid #444" />
   
   <!-- Activity Graph -->
   <h2>📈 Contribution Graph</h2>
-  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MhdAsfan&theme=tokyo-night&hide_border=true&area=true" alt="MhdAsfan Activity Graph" width="80%" />
-  <br/>
 
 </div>
+
 
 ## 🏆 GitHub Trophies
 
