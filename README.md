@@ -84,8 +84,9 @@ Passionate **Cyber Security Researcher** specializing in **penetration testing**
 
 ## 📊 GitHub Statistics
 
+<!-- GitHub Profile Stats & Activity -->
 
-
+<div align="center">
 
   <!-- Profile Overview Cards -->
   <h2>🌟 GitHub Stats & Top Languages</h2>
@@ -93,6 +94,17 @@ Passionate **Cyber Security Researcher** specializing in **penetration testing**
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MhdAsfan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MhdAsfan GitHub Stats" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhdAsfan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   <br/>
+
+  <!-- Skills Badges Row -->
+  <div style="margin: 20px 0;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  </div>
+
   <hr style="width:60%; margin: 30px auto; border-top: 1.5px solid #444" />
   
   <!-- Activity Graph -->
@@ -102,38 +114,6 @@ Passionate **Cyber Security Researcher** specializing in **penetration testing**
   <br/>
 
 </div>
-
-Absolutely! Here’s an enhanced, optimized, and responsive version using only Markdown (for GitHub README compatibility) and clean HTML fallback—no raw CSS so it works everywhere GitHub supports it.
-This design is professional, balanced on both desktop and mobile, and looks great in both dark and light themes:
-
-🌟 GitHub Stats & Top Languages
-<table> <tr> <td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MhdAsfan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MhdAsfan GitHub Stats" width="95%"> </td> <td align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhdAsfan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="95%"> </td> </tr> </table>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MhdAsfan&theme=tokyo-night&hide_border=true&area=true" alt="MhdAsfan Activity Graph" width="98%"> </p>
-Why is this better?
-
-Uses a table for responsive, side-by-side layout (on mobile, becomes stacked).
-
-Larger image widths adapt beautifully to any screen.
-
-Clean Markdown section headers keep things organized for both dark/light themes.
-
-Compatible with GitHub's markdown parser (including on mobile).
-
-<p align="center"> and table assure horizontal centering.
-Just copy-paste this into your README.md and enjoy a more professional, responsive, and visually-appealing stats/activity section!
-
-give it
-
-Here is the enhanced, optimized, and responsive GitHub stats/activity section for your README:
-
-🌟 GitHub Stats & Top Languages
-<table> <tr> <td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MhdAsfan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MhdAsfan GitHub Stats" width="95%"> </td> <td align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhdAsfan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="95%"> </td> </tr> </table>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MhdAsfan&theme=tokyo-night&hide_border=true&area=true" alt="MhdAsfan Activity Graph" width="98%"> </p>
-
-
----
 
 ## 🏆 GitHub Trophies
 
