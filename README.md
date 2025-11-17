@@ -133,7 +133,47 @@ Learning:
 
 ## 🎓 Certifications & Achievements
 
-<p align="center"> <img src="https://img.shields.io/badge/OWASP%20Top%2010-TryHackMe-00D9FF?style=for-the-badge&logo=tryhackme&logoColor=white" /> <img src="https://img.shields.io/badge/TCS%20Cybersecurity-Virtual%20Simulation-0066CC?style=for-the-badge&logo=tcs&logoColor=white" /> <img src="https://img.shields.io/badge/Infosys%20Springboard-Cybersecurity-009688?style=for-the-badge&logo=infosys&logoColor=white" /> <img src="https://img.shields.io/badge/Skillsoft-Java%20SE%2011%20Secure%20Coding-1155CC?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/RedTeam%20Hacker%20Academy-CTF%20Operation%20Cipher%202.0-F44336?style=for-the-badge&logo=redhat&logoColor=white" /> <img src="https://img.shields.io/badge/Offenso%20Hackers%20Academy-BootCamp-FF9800?style=for-the-badge&logo=hackerrank&logoColor=white" /> <img src="https://img.shields.io/badge/AIG%20Cybersecurity-Job%20Simulation%20(Forage)-5C2D91?style=for-the-badge&logo=aig&logoColor=white" /> <img src="https://img.shields.io/badge/Datacom%20Cybersecurity-Job%20Simulation%20(Forage)-388E3C?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Tata%20Group%20Cybersecurity-Job%20Simulation%20(Forage)-FFC107?style=for-the-badge&logo=tata&logoColor=white" /> <img src="https://img.shields.io/badge/Mastercard%20Cybersecurity-Job%20Simulation%20(Forage)-E10B74?style=for-the-badge&logo=mastercard&logoColor=white" /> <img src="https://img.shields.io/badge/EC-Council-Android%20Bug%20Bounty%20Hunting-FF3437?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/EC-Council-Cybersecurity%20for%20Business-2196F3?style=for-the-badge&logo=ec-council&logoColor=white" /> <img src="https://img.shields.io/badge/LetsDefend-SOC%20Member-212121?style=for-the-badge&logo=letsdefend&logoColor=white" /> <img src="https://img.shields.io/badge/EC-Council-SQL%20Injection%20Attacks-0D47A1?style=for-the-badge&logo=database&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1A237E?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/EC-Council-Python%20for%20Absolute%20Beginners-4CAF50?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/RedTeam%20Hacker%20Academy-CTF%20Challenge-FF5252?style=for-the-badge&logo=flag&logoColor=white" /> <img src="https://img.shields.io/badge/TryHackMe-Advent%20of%20Cyber%202024-607D8B?style=for-the-badge&logo=tryhackme&logoColor=white" /> <img src="https://img.shields.io/badge/TryHackMe-Webbed-009688?style=for-the-badge&logo=tryhackme&logoColor=white" /> </p>
+<p align="center">
+  <!-- OWASP Top 10 -->
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-TryHackMe-00D9FF?style=for-the-badge&logo=tryhackme&logoColor=white" alt="OWASP Top 10" />
+  <!-- TCS Cybersecurity (uses generic badge as TCS is not supported on shields.io) -->
+  <img src="https://img.shields.io/badge/TCS%20Cybersecurity-Virtual%20Simulation-0066CC?style=for-the-badge&logo=hackthebox&logoColor=white" alt="TCS Cybersecurity Virtual Simulation" />
+  <!-- Infosys Springboard -->
+  <img src="https://img.shields.io/badge/Infosys%20Springboard-Cybersecurity-009688?style=for-the-badge&logo=infosys&logoColor=white" alt="Infosys Springboard Cybersecurity" />
+  <!-- Skillsoft Java -->
+  <img src="https://img.shields.io/badge/Skillsoft-Java%20SE%2011%20Secure%20Coding-1155CC?style=for-the-badge&logo=java&logoColor=white" alt="Skillsoft Java SE 11 Secure Coding" />
+  <!-- RedTeam Hacker Academy -->
+  <img src="https://img.shields.io/badge/RedTeam%20Hacker%20Academy-CTF%20Operation%20Cipher%202.0-F44336?style=for-the-badge&logo=redhat&logoColor=white" alt="RedTeam Hacker Academy CTF Operation Cipher 2.0" />
+  <!-- Offenso Hackers Academy BootCamp -->
+  <img src="https://img.shields.io/badge/Offenso%20Hackers%20Academy-BootCamp-FF9800?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Offenso Hackers Academy Bootcamp" />
+  <!-- AIG Cybersecurity (logo not supported, use generic) -->
+  <img src="https://img.shields.io/badge/AIG%20Cybersecurity-Job%20Simulation%20(Forage)-5C2D91?style=for-the-badge&logo=briefcase&logoColor=white" alt="AIG Cybersecurity Job Simulation"/>
+  <!-- Datacom Cybersecurity (logo not supported, using databricks as closest match) -->
+  <img src="https://img.shields.io/badge/Datacom%20Cybersecurity-Job%20Simulation%20(Forage)-388E3C?style=for-the-badge&logo=databricks&logoColor=white" alt="Datacom Cybersecurity Job Simulation"/>
+  <!-- Tata Group Cybersecurity (logo not supported, generic replacement) -->
+  <img src="https://img.shields.io/badge/Tata%20Group%20Cybersecurity-Job%20Simulation%20(Forage)-FFC107?style=for-the-badge&logo=categories&logoColor=white" alt="Tata Group Cybersecurity Job Simulation"/>
+  <!-- Mastercard Cybersecurity -->
+  <img src="https://img.shields.io/badge/Mastercard%20Cybersecurity-Job%20Simulation%20(Forage)-E10B74?style=for-the-badge&logo=mastercard&logoColor=white" alt="Mastercard Cybersecurity Job Simulation"/>
+  <!-- EC-Council Android Bug Bounty -->
+  <img src="https://img.shields.io/badge/EC--Council-Android%20Bug%20Bounty%20Hunting-FF3437?style=for-the-badge&logo=android&logoColor=white" alt="EC-Council Android Bug Bounty Hunting"/>
+  <!-- EC-Council Cybersecurity for Business -->
+  <img src="https://img.shields.io/badge/EC--Council-Cybersecurity%20for%20Business-2196F3?style=for-the-badge&logo=security&logoColor=white" alt="EC-Council Cybersecurity for Business"/>
+  <!-- LetsDefend -->
+  <img src="https://img.shields.io/badge/LetsDefend-SOC%20Member-212121?style=for-the-badge&logo=shield&logoColor=white" alt="LetsDefend SOC Member"/>
+  <!-- EC-Council SQL Injection Attacks -->
+  <img src="https://img.shields.io/badge/EC--Council-SQL%20Injection%20Attacks-0D47A1?style=for-the-badge&logo=database&logoColor=white" alt="EC-Council SQL Injection Attacks"/>
+  <!-- Cisco Cybersecurity -->
+  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1A237E?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Introduction to Cybersecurity"/>
+  <!-- EC-Council Python for Absolute Beginners -->
+  <img src="https://img.shields.io/badge/EC--Council-Python%20for%20Absolute%20Beginners-4CAF50?style=for-the-badge&logo=python&logoColor=white" alt="EC-Council Python for Absolute Beginners"/>
+  <!-- RedTeam Hacker Academy CTF Challenge -->
+  <img src="https://img.shields.io/badge/RedTeam%20Hacker%20Academy-CTF%20Challenge-FF5252?style=for-the-badge&logo=flag&logoColor=white" alt="RedTeam Hacker Academy CTF Challenge"/>
+  <!-- TryHackMe Advent of Cyber -->
+  <img src="https://img.shields.io/badge/TryHackMe-Advent%20of%20Cyber%202024-607D8B?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Advent of Cyber 2024"/>
+  <!-- TryHackMe Webbed -->
+  <img src="https://img.shields.io/badge/TryHackMe-Webbed-009688?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Webbed"/>
+</p>
+
 
 ---
 
