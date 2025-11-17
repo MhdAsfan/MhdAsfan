@@ -84,18 +84,26 @@ Passionate **Cyber Security Researcher** specializing in **penetration testing**
 
 ## 📊 GitHub Statistics
 
+<!-- GitHub Profile Stats & Activity -->
+
 <div align="center">
+
+  <!-- Profile Overview Cards -->
+  <h2>🌟 GitHub Stats & Top Languages</h2>
+  <br/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MhdAsfan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MhdAsfan GitHub Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhdAsfan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <br/>
+  <hr style="width:60%; margin: 30px auto; border-top: 1.5px solid #444" />
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MhdAsfan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhdAsfan&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Activity Graph -->
+  <h2>📈 Contribution Graph</h2>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MhdAsfan&theme=tokyo-night&hide_border=true&area=true" alt="MhdAsfan Activity Graph" width="80%" />
+  <br/>
 
 </div>
 
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MhdAsfan&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 ---
 
