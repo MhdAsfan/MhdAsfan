@@ -157,11 +157,11 @@ Learning:
   <!-- RedTeam Hacker Academy -->
   <img src="https://img.shields.io/badge/RedTeam%20Hacker%20Academy-CTF%20Operation%20Cipher%202.0-F44336?style=for-the-badge&logo=redhat&logoColor=white" alt="RedTeam Hacker Academy CTF Operation Cipher 2.0" />
   <!-- Offenso Hackers Academy BootCamp -->
-  <img src="https://img.shields.io/badge/Offenso%20Hackers%20Academy-BootCamp-FF9800?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Offenso Hackers Academy Bootcamp" />
+  <!-- <img src="https://img.shields.io/badge/Offenso%20Hackers%20Academy-BootCamp-FF9800?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Offenso Hackers Academy Bootcamp" /> -->
   <!-- AIG Cybersecurity (logo not supported, use generic) -->
   <img src="https://img.shields.io/badge/AIG%20Cybersecurity-Job%20Simulation%20(Forage)-5C2D91?style=for-the-badge&logo=briefcase&logoColor=white" alt="AIG Cybersecurity Job Simulation"/>
   <!-- Datacom Cybersecurity (logo not supported, using databricks as closest match) -->
-  <img src="https://img.shields.io/badge/Datacom%20Cybersecurity-Job%20Simulation%20(Forage)-388E3C?style=for-the-badge&logo=databricks&logoColor=white" alt="Datacom Cybersecurity Job Simulation"/>
+  <!-- <img src="https://img.shields.io/badge/Datacom%20Cybersecurity-Job%20Simulation%20(Forage)-388E3C?style=for-the-badge&logo=databricks&logoColor=white" alt="Datacom Cybersecurity Job Simulation"/> -->
   <!-- Tata Group Cybersecurity (logo not supported, generic replacement) -->
   <img src="https://img.shields.io/badge/Tata%20Group%20Cybersecurity-Job%20Simulation%20(Forage)-FFC107?style=for-the-badge&logo=categories&logoColor=white" alt="Tata Group Cybersecurity Job Simulation"/>
   <!-- Mastercard Cybersecurity -->
